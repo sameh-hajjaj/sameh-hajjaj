@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @sameh-hajjaj
-- 👀 I’m interested in php, codeigniter, laravel
-- 🌱 I’m currently learning codeigniter 3
+- 👀 I’m interested in php, laravel
+- 🌱 I’m currently coding laravel 9
